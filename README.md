@@ -1,8 +1,6 @@
 # 💫 About Me:
-🔭 Integrating SAP B1 Hana with AI<br>
 🌱 Student at Zespół Szkół Łączności im. Mikołaja Kopernika, Poznań<br>
 🐈 Proud cat dad<br>
-🎸 Guitarist and drummer across various metal genres
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rudosi1606) 
